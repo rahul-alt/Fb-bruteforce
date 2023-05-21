@@ -3,7 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 browser = webdriver.Firefox(executable_path="geckodriver.exe")
 print(''' @CREATOR NETWORK SECURITY
-      BRUTE FORCE VERSION 4.3.0   WORDLIST DEFAULT
+      BRUTE FORCE VERSION 4.3.0   WORDLIST DEFAULT | EDIT PASS.TXT
       HOW TO USE AVILABEL IN YOUTUBE https://youtu.be/j8F4glPWWw4
       ''')
 file = open("pass.txt")
